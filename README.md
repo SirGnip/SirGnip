@@ -1,8 +1,8 @@
-Like many of you out there, I suffer from the "Look at that new, shiny thing over there!" syndrome.
-I embrace my malady wholeheartedly!
-
-Here is a semi-organized list of some of the scattered topics I've experimented with:
+I, like many of you, suffer from "Look at that new, shiny thing over there!" syndrome. 
+So unsurprisingly, I have repos that touch various topics.  Here is a semi-organized list
+of some of my repos by topics.
 
 - Gaming
 - wxPython
 - Ableton Live
+- Learning new languages
