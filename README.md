@@ -3,7 +3,7 @@ So unsurprisingly, I have repos that touch on various topics (many Python focuse
 of some of my repos:
 
 - :joystick: Gaming
-  - [arcade_examples](https://github.com/SirGnip/arcade_examples): Example games coded using [Arcade](https://github.com/pythonarcade/arcade) Python library for 2D games
+  - [arcade_examples](https://github.com/SirGnip/arcade_examples): Example games coded using the easy-to-learn [Arcade](https://github.com/pythonarcade/arcade) Python library for 2D games
 - :computer: Learning new programming languages
   - [JavaCheatSheets](https://github.com/SirGnip/JavaCheatSheets): Java cheat sheets you can execute
   - [GroovyCheatSheets](https://github.com/SirGnip/GroovyCheatSheets): Groovy cheat sheets you can execute
