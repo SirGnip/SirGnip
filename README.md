@@ -1,14 +1,14 @@
 I, like many of you, suffer from "Look at that new, shiny thing over there!" syndrome. 
 So unsurprisingly, I have repos that touch on various topics (many Python focused).  Here is a semi-organized list
-of some of my repos by topic:
+of some of my repos:
 
 - :joystick: Gaming
   - [arcade_examples](https://github.com/SirGnip/arcade_examples): Example games coded using [Arcade](https://github.com/pythonarcade/arcade) Python library for 2D games
 - :computer: Learning new programming languages
-  - [JavaCheatSheets](https://github.com/SirGnip/JavaCheatSheets)
-  - [GroovyCheatSheets](https://github.com/SirGnip/GroovyCheatSheets)
+  - [JavaCheatSheets](https://github.com/SirGnip/JavaCheatSheets): Java cheat sheets you can execute
+  - [GroovyCheatSheets](https://github.com/SirGnip/GroovyCheatSheets): Groovy cheat sheets you can execute
 - :musical_keyboard: Ableton Live ClyphX Python scripting (scripting for commercial digital audio software)
-  - [clyphx_minimal](https://github.com/SirGnip/clyphx_minimal)
+  - [clyphx_minimal](https://github.com/SirGnip/clyphx_minimal): Example ClyphX custom user action script
   - [clyphx_gniputils](https://github.com/SirGnip/clyphx_gniputils): General ClyphX utility commands for Ableton Live
   - [clyphx_clipqueue](https://github.com/SirGnip/clyphx_clipqueue): Trigger a sequence of clips in Ableton Live
 - :coffee: JavaFX programming
