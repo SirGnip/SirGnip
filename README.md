@@ -3,6 +3,7 @@ So unsurprisingly, I have repos that touch on various topics (many Python focuse
 of some of my repos:
 
 - :joystick: Gaming
+  - [Arc Arena](https://github.com/SirGnip/arc_arena): Can you survive longer than your foes in the arena? A hotseat game that supports a large number of players (1-10+) on one screen
   - [arcade_examples](https://github.com/SirGnip/arcade_examples): Example games coded using the easy-to-learn [Arcade](https://github.com/pythonarcade/arcade) Python library for 2D games
 - :computer: Learning new programming languages
   - [JavaCheatSheets](https://github.com/SirGnip/JavaCheatSheets): Java cheat sheets you can execute
