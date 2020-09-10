@@ -14,6 +14,7 @@ of some of my repos:
   - [clyphx_clipqueue](https://github.com/SirGnip/clyphx_clipqueue): Trigger a sequence of clips in Ableton Live
 - :coffee: JavaFX programming
   - [JVMUberRepo](https://github.com/SirGnip/JVMUberRepo): uber-ish repo that contains multiple applications and libraries, focused on games and UI tools
-- :game_die: Programming experiments and random stuff
+- :game_die: Random stuff, programming experiments, half-baked utilities, etc.
+  - [board_game_toolbox](https://github.com/SirGnip/board_game_toolbox): Tools and utilities for various board games
   - [crowd_sandbox](https://github.com/SirGnip/crowd_sandbox): Concurrent programming experiments with hyper simplistic "crowd" simulation
   - [weather_scraper](https://github.com/SirGnip/weather_scraper): Simple, tactical script to download historical weather data
