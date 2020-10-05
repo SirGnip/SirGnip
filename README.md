@@ -18,3 +18,5 @@ of some of my repos:
   - [board_game_toolbox](https://github.com/SirGnip/board_game_toolbox): Tools and utilities for various board games
   - [crowd_sandbox](https://github.com/SirGnip/crowd_sandbox): Concurrent programming experiments with hyper simplistic "crowd" simulation
   - [weather_scraper](https://github.com/SirGnip/weather_scraper): Simple, tactical script to download historical weather data
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FSirGnip)
