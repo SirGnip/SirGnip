@@ -5,6 +5,7 @@ of some of my repos:
 - :joystick: Gaming
   - [Arc Arena](https://github.com/SirGnip/arc_arena): Can you survive longer than your foes in the arena? A hotseat game that supports a large number of players (1-10+) on one screen.
   - [arcade_examples](https://github.com/SirGnip/arcade_examples): Example games coded using the easy-to-learn [Arcade](https://github.com/pythonarcade/arcade) Python library for 2D games
+  - [arcade_screensaver_framework](https://github.com/SirGnip/arcade_screensaver_framework): A very simple Python framework for making screen savers for Windows. Uses the Arcade library.
 - :computer: Learning new programming languages
   - [JavaCheatSheets](https://github.com/SirGnip/JavaCheatSheets): Java cheat sheets you can execute
   - [GroovyCheatSheets](https://github.com/SirGnip/GroovyCheatSheets): Groovy cheat sheets you can execute
