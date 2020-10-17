@@ -21,3 +21,4 @@ of some of my repos:
   - [weather_scraper](https://github.com/SirGnip/weather_scraper): Simple, tactical script to download historical weather data
 
 ![Views](https://komarev.com/ghpvc/?username=SirGnip)
+[![HitCount](http://hits.dwyl.com/SirGnip/SirGnip.svg)](http://hits.dwyl.com/SirGnip/SirGnip)
