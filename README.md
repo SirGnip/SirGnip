@@ -20,5 +20,4 @@ of some of my repos:
   - [crowd_sandbox](https://github.com/SirGnip/crowd_sandbox): Concurrent programming experiments with hyper simplistic "crowd" simulation
   - [weather_scraper](https://github.com/SirGnip/weather_scraper): Simple, tactical script to download historical weather data
 
-![Hits](http://cc.amazingcounters.com/counter.php?i=3245828&c=9737797)
-![Total Hits](http://cc.amazingcounters.com/counter.php?i=3245839&c=9737830)
+![Views](https://komarev.com/ghpvc/?username=SirGnip)
