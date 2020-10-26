@@ -24,4 +24,4 @@ of some of my repos:
 
 ![HitCount](http://hits.dwyl.com/SirGnip/SirGnip.svg)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FSirGnip)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FSirGnip%2FSirGnip)
